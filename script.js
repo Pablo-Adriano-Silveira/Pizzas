@@ -7,7 +7,7 @@ const pizzas = [
     price: 3.00,
     image: 'https://images.pexels.com/photos/845802/pexels-photo-845802.jpeg'
   },
-  /*{
+  {
     id: 2,
     name: 'Frango com Catupiry',
     description: 'Mussarela, frango desfiado, catupiry e orégano.',
@@ -27,7 +27,7 @@ const pizzas = [
     description: 'Mussarela, parmesão, provolone, gorgonzola e orégano.',
     price: 3.00,
     image: 'https://images.pexels.com/photos/3762069/pexels-photo-3762069.jpeg'
-  }*/
+  }
 ];
 
 const breads = [
