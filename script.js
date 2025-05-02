@@ -38,7 +38,7 @@ const breads = [
     price: 3.00,
     unit: 'unidade',
     image: 'https://images.pexels.com/photos/1775043/pexels-photo-1775043.jpeg'
-  },
+  }/*,
   {
     id: 6,
     name: 'Pão de Queijo',
@@ -62,7 +62,7 @@ const breads = [
     price: 5.00,
     unit: 'unidade',
     image: 'https://images.pexels.com/photos/1387075/pexels-photo-1387075.jpeg'
-  }
+  }*/
 ];
 
 // Cart functionality
